@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AdvancedAndroidTask4</string>
+    <string name="search">Search</string>
+    <string name="enter_your_city">Enter Your City</string>
+    <string name="show">Show</string>
+    <string name="enter_your_country">Enter Your Country</string>
+    <string name="religious_times">Religious Times</string>
+</resources>
